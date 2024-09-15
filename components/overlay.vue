@@ -14,7 +14,7 @@
 </template>
 
 <script setup>
-import {useSpinnerStore} from "../stores/spinner";
+import {useSpinnerStore} from "#spinner/stores/spinner";
 
 const spinnerStore = useSpinnerStore()
 const showSpinner = computed(() => {

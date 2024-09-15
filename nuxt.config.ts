@@ -1,4 +1,8 @@
+
 export default defineNuxtConfig({
+  alias: {
+    '#spinner': resolve('./')
+  },
   components: [
     {
       // can be relative, alias or absolute

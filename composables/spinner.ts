@@ -1,4 +1,4 @@
-import { useSpinnerStore } from "@/stores/spinner";
+import { useSpinnerStore } from "#spinner/stores/spinner";
 
 export function useSpinner() {
   const spinnerStore = useSpinnerStore();
