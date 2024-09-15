@@ -1,0 +1,22 @@
+{
+  "name": "spinnerlayer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/simagar/spinnerLayer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simagar/spinnerLayer/issues"
+  },
+  "homepage": "https://github.com/simagar/spinnerLayer#readme",
+  "dependencies": {
+    "pathe": "^1.1.2"
+  }
+}

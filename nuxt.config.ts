@@ -1,3 +1,4 @@
+import {resolve} from "pathe";
 
 export default defineNuxtConfig({
   alias: {
